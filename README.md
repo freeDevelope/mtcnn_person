@@ -6,7 +6,7 @@ Step1: Unzip the "3rd_dll.zip" to the current directory.
 
 Step2: Unzip the "person.zip" to the directory of "person/".
 
-Step3: Edit parameters of “demo.cmd”
+Step3: Set parameters of “demo.cmd”
 
        demo.exe: Default parameters
 
