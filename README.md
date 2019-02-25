@@ -1,6 +1,6 @@
 # CPU real time pedestrian detection
 # Requirement
-Pedestrians should stand up and show their whole body. Other postures are inaccurate
+Pedestrians should `stand up` and `show their whole body`. Other postures are inaccurate
  
 # Test steps:
 
