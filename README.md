@@ -1,6 +1,8 @@
 # CPU real time pedestrian detection
+# Requirement
+Pedestrians should stand up and show their whole body. Other postures are inaccurate
  
-Test steps:
+# Test steps:
 
 Step1: Unzip the "3rd_dll.zip" to the current directory.
 
